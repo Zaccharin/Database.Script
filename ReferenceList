@@ -1,0 +1,72 @@
+<div id="#pid()">
+<section>
+<note>
+<xa?script version="1.0" encoding="#pid()">
+<resources>
+
+  <server-config name="User Data">
+  <select="selected" encoding="#pid()" multiple></select>
+    <xml?script version="1.0" encoding="#pid()">
+      <query>
+        <button encoding="#pid()" option="Database" value="Database.Script">
+        <button encoding="#pid()" option="Script" value="Database.Script">
+        <button encoding="#pid()" option="Database.Script" value="Database.Script">
+        <button encoding="#pid()" option="text" value="Integer">
+        <button encoding="#pid()" option="text" value="SmallInt">
+        <button encoding="#pid()" option="text" value="BigInt">
+        <button encoding="#pid()" option="text" value="Decimal">
+        <button encoding="#pid()" option="text" value="float 8">
+        <button encoding="#pid()" option="text" value="float 4">
+        <button encoding="#pid()" option="text" value="money">
+        <button encoding="#pid()" option="text" value="Numeric">
+        <button encoding="#pid()" option="text" value="Serial">
+        <button encoding="#pid()" option="text" value="BigSerial">
+        <button encoding="#pid()" option="text" value="Char">
+        <button encoding="#pid()" option="text" value="Varchar">
+        <button encoding="#pid()" option="text" value="Text">
+        <button encoding="#pid()" option="text" value="character">
+        <button encoding="#pid()" option="text" value="Boolean">
+        <button encoding="#pid()" option="text" value="TimeStamp">
+        <button encoding="#pid()" option="text" value="TIMESTAMPTZ">
+        <button encoding="#pid()" option="text" value="Date">
+        <button encoding="#pid()" option="text" value="Tiem">
+        <button encoding="#pid()" option="text" value="INTERVAL">
+        <button encoding="#pid()" option="text" value="bytea">
+        <button encoding="#pid()" option="text" value="XML">
+        <button encoding="#pid()" option="text" value="JSON">
+        <button encoding="#pid()" option="text" value="JSONb">
+        <button encoding="#pid()" option="text" value="UUID">
+        <button encoding="#pid()" option="text" value="CIDR">
+        <button encoding="#pid()" option="text" value="INET">
+        <button encoding="#pid()" option="text" value="MACADDR">
+        <button encoding="#pid()" option="text" value="macaddr8">
+        <button encoding="#pid()" option="text" value="Point">
+        <button encoding="#pid()" option="text" value="LINE">
+        <button encoding="#pid()" option="text" value="LSEG">
+        <button encoding="#pid()" option="text" value="BOX">
+        <button encoding="#pid()" option="text" value="PATH">
+        <button encoding="#pid()" option="text" value="Polygon">
+        <button encoding="#pid()" option="text" value="CIRCLE">
+        <button encoding="#pid()" option="text" value="Enum">
+        <button encoding="#pid()" option="text" value="Bit">
+        <button encoding="#pid()" option="text" value="BIT VARYING">
+        <button encoding="#pid()" option="text" value="TssQuerry">
+        <button encoding="#pid()" option="text" value="TsVector">
+        <button encoding="#pid()" option="text" value="pg_lsn">
+        <button encoding="#pid()" option="text" value="pg_snapshot">
+        <button encoding="#pid()" option="text" value="txid_snapshot">
+        <button encoding="#pid()" option="text" value="ALL|All|all">
+        <button encoding="#pid()" option="text" value="Any|Any|any">
+        <button encoding="#pid()" option="text" value="SINGLE|Single|single">
+        <button encoding="#pid()" option="text" value="MULTIPLE|Multiple|multiple">
+        <button encoding="#pid()" option="text" value="  {...}  ">
+        <button encoding="#pid()" option="text" value="null">
+      </query>
+  </xml>
+  </server-config>
+
+</resources>
+</xa?script>
+</noet>
+</section>
+</hr>
